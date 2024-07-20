@@ -1,0 +1,90 @@
+Just a friendly reminder! You have these tasks to finish today.
+- Has indentation before
+- 
+- Dash-in-Description
+- Missing space character
+- Special characters !@#$%^&*()_+{}|~:"<>?
+- D/M/YY
+- Not complete task should show up
+- Task due today
+
+These tasks need to be finished in the next three days!
+
+You have the following meetings today!
+- Has indentation before at 18:00
+-  at 18:00
+- Dash-in-Description at 18:00
+- Missing space character at 18:00
+- Duplicates should show up twice at 18:00
+- Duplicates should show up twice at 18:00
+- Special characters !@#$%^&*()_+{}|~:"<>? at 18:00
+- Edge Valid hour value at 23:59
+- Edge Valid hour value at 00:00
+- Edge Valid Minute value at 13:00
+- Edge Valid Minute value at 13:59
+- Meeting due today at 18:00
+
+You have the following meetings scheduled over the next week!
+- Meeting due tomorrow on 28/08/23 at 18:00
+- Meeting due in two days on 29/08/23 at 18:00
+- Meeting due in three days on 30/08/23 at 18:00
+- Meeting due in four days on 31/08/23 at 18:00
+- Meeting due in five days on 01/09/23 at 18:00
+- Meeting due in six days on 02/09/23 at 18:00
+- Meeting due in the next week on 03/09/23 at 18:00
+
+What would you like to do?
+1. Complete tasks
+2. Add a new meeting.
+3. Share a task.
+4. Share a meeting.
+5. Change Jafr's master directory.
+6. Exit
+Which task would you like to share?
+1. Has indentation before by 27/08/23
+2.  by 27/08/23
+3. Dash-in-Description by 27/08/23
+4. Missing space character by 27/08/23
+5. Duplicates should show up twice by 27/08/23
+6. Duplicates should show up twice by 27/08/23
+7. Special characters !@#$%^&*()_+{}|~:"<>? by 27/08/23
+8. D/M/YY by 27/8/23
+9. No spaces between by 27/08/23
+10. Complete task should not show up by 27/08/23
+11. Not complete task should show up by 27/08/23
+12. Misspelled completion status by 27/08/23
+13. Task due yesterday by 26/08/23
+14. Task due today by 27/08/23
+15. Task due tomorrow by 28/08/23
+16. Task due in two days by 29/08/23
+17. Task due in three days by 30/08/23
+18. Task due in four days by 31/08/23
+19.  by 27/08/23
+20. not complete by 27/08/23
+Invalid Task Number
+Invalid Task Number
+Invalid Task Number
+Invalid Task Number
+Invalid Task Number
+Invalid Task Number
+Who would you like to share with?
+0001 john
+0003 ethan
+0004 oliver
+0080 peter
+0081 rebecca
+0005 user
+Invalid user ID entered
+Invalid user ID entered
+Invalid user ID entered
+Invalid user ID entered
+Invalid user ID entered
+Invalid user ID entered
+Invalid user ID entered
+What would you like to do?
+1. Complete tasks
+2. Add a new meeting.
+3. Share a task.
+4. Share a meeting.
+5. Change Jafr's master directory.
+6. Exit
